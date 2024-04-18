@@ -1,0 +1,29 @@
+body {
+    background-image: url(../src/content/image/bluearchive_wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+div p a.credit{
+    color: white;
+    text-decoration: none;
+}
+
+div p a.credit:hover{
+    text-decoration: underline;
+}
+
+iframe{
+    width: 555px;
+}
